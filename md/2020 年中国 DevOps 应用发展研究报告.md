@@ -214,35 +214,3 @@ DevOps 理念是打通软件工程中各个曾经由独立的团队和不同的�
 **自动化、数据化、一体化、智能化是未来 DevOps 的发展方向**
 
 尽管 DevOps 包含大量 IT 领域的技术和方法，然而更多是一种协作文化和企业管理的理念和思路，也正因如此，DevOps 的应用框架不是一成不变的，将会随着信息技术和软件工具的发展而不断革新、不断适应新的软件开发环境和市场需求环境。**整体来看，未来 DevOps 应用发展将呈现出自动化、数据化、一体化、智能化四大趋势，**分别对应目前软件开发和运维领域人工参与较多、量化指标不够清晰、开发运维链条有待完善和智能化程度尚待提高等主要问题，最终目标是最大限度减少人工对无意义、重复工作的参与并提高软件开发和运维工作的有效性。
-
-![](https://p6-tt.byteimg.com/origin/pgc-image/31fce13b579848f1a9c4de639a61faed?from=pc)
-
-收藏举报44 条评论评论
-
-*   [![](https://sf3-ttcdn-tos.pstatp.com/img/pgc-image/d12f8cb0d63048b4842a483e48a80279~300x300.image)](/c/user/52115610458/)[lin997239980](/c/user/52115610458/)2 月前
-    
-    真是不错的文章
-    
-    回复 0 
-*   [![](https://sf1-ttcdn-tos.pstatp.com/img/pgc-image/7abd736b22ca443c9e67ae33b9f2e970~300x300.image)](/c/user/1464192243340488/)[swiftspeak](/c/user/1464192243340488/)2 月前
-    
-    已经是必然的发展趋势。
-    
-    回复 0 
-*   [![](https://p1.pstatp.com/img/mosaic-legacy/568800048c0376462c5b~300x300.image)](/c/user/59325412265/)[HelloTeacher 陈](/c/user/59325412265/) 2 月前
-    
-    转一发！
-    
-    回复 0 
-*   [![](https://sf3-ttcdn-tos.pstatp.com/img/pgc-image/d12f8cb0d63048b4842a483e48a80279~300x300.image)](/c/user/52115610458/)[lin997239980](/c/user/52115610458/)2 月前
-    
-    优质文章
-    
-    回复 0 
-*   [![](https://p1-dy.bytexservice.com/img/user-avatar/4f8480a7d34f4dcbfc7a1bfef46ebc07~300x300.image)](/c/user/19629866687/)[散人闲语](/c/user/19629866687/) 2 月前
-    
-    转发了
-    
-    回复 0 
-
-查看更多评论
